@@ -1,0 +1,31 @@
+1
+
+
+2018-08-09 18:44:15,948 CRIT Supervisor running as root (no user in config file)
+2018-08-09 18:44:15,952 WARN Included extra file "/etc/supervisor/conf.d/awesome.conf" during parsing
+2018-08-09 18:44:15,953 INFO RPC interface 'supervisor' initialized
+2018-08-09 18:44:15,956 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-08-09 18:44:15,956 INFO supervisord started with pid 718
+2018-08-09 18:44:16,959 INFO spawned: 'awesome' with pid 1263
+2018-08-09 18:44:17,393 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:44:18,396 INFO spawned: 'awesome' with pid 1266
+2018-08-09 18:44:18,840 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:44:20,844 INFO spawned: 'awesome' with pid 1269
+2018-08-09 18:44:21,273 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:44:24,279 INFO spawned: 'awesome' with pid 1272
+2018-08-09 18:44:24,681 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:44:25,683 INFO gave up: awesome entered FATAL state, too many start retries too quickly
+
+
+
+
+
+2018-08-09 18:46:02,465 INFO spawned: 'awesome' with pid 1280
+2018-08-09 18:46:02,883 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:46:03,886 INFO spawned: 'awesome' with pid 1283
+2018-08-09 18:46:04,333 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:46:06,343 INFO spawned: 'awesome' with pid 1286
+2018-08-09 18:46:06,778 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:46:09,783 INFO spawned: 'awesome' with pid 1289
+2018-08-09 18:46:10,172 INFO exited: awesome (exit status 1; not expected)
+2018-08-09 18:46:11,174 INFO gave up: awesome entered FATAL state, too many start retries too quickly
